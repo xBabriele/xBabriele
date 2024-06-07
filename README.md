@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Babriele
+- 👋 Hi, I’m Gabriel
 - 👀 I have a base on Front-End
 - 🌱 I’m currently learning Python, Java and Assembly
 - 📫 gabriel.madiotto@gmail.com
