@@ -4,7 +4,7 @@
 - ⭐ Specialized in Front-end
 - 📫 gabriel.madiotto@gmail.com
 - 📫 Discord: babriele
-- 🪪 [Carrd](https://madi8.carrd.co)
+- 🪪 [Carrd.co](https://madi8.carrd.co)
 - 📍 Italy, VE
 <!---
 xBabriele/xBabriele is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
