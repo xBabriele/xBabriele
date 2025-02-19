@@ -1,9 +1,10 @@
 - 👋 Hi, I’m Gabriel
 - 👀 New to coding
-- 💻 I’m currently learning Python, Java, JavaScript, ASM 8086, HTML and CSS
+- 💻 Currently learning Python, Java, JavaScript, ASM 8086, HTML and CSS
 - ⭐ Specialized in Front-end
 - 📫 gabriel.madiotto@gmail.com
 - 📫 Discord: babriele
+- 🪪 [Carrd](https://madi8.carrd.co)
 - 📍 Italy, VE
 <!---
 xBabriele/xBabriele is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
