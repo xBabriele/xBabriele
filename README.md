@@ -2,7 +2,6 @@
 - 👀 New to coding
 - 💻 Currently learning Python, Java, JavaScript, ASM 8086, HTML and CSS
 - ⭐ Specialized in Front-end
-- 📫 gabriel.madiotto@gmail.com
 - 📫 Discord: babriele
 - 🪪 [Carrd.co](https://madi8.carrd.co)
 - 📍 Italy, VE
