@@ -41,6 +41,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/xBabriele/xBabriele/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/xBabriele/output/snake.svg" alt="Snake animation" />
 
 ###
